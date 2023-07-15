@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Righteousness Akinbola</h1>
 <h3 align="center">A passionate backend web developer from Nigeria</h3>
-<img align="center" alt="Coding" width="800" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
+<img align="center" alt="Coding" width="800" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ireoluwacodes&label=Profile%20views&color=0e75b6&style=flat" alt="ireoluwacodes" /> </p>
 
