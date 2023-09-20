@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ireoluwa!</h1>
-<h3 align="center">An upcoming backend web developer from Nigeria</h3>
+<h3 align="center">Software developer </h3>
 <img align="center" alt="Coding" width="800" src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ireoluwacodes&label=Profile%20views&color=0e75b6&style=flat" alt="ireoluwacodes" /> </p>
