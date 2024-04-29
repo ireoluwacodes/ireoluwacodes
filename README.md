@@ -1,31 +1,78 @@
 <h1 align="center">Hi 👋, I'm Ireoluwa!</h1>
 <h3 align="center">Software developer </h3>
-<img align="centerr" alt="Coding" width="800" src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif">
+<!-- social handles -->
+<div align="center" style="display: flex;"> 
+<!-- instagram -->
+  <a href="https://" target="_blank"><img src="https://img.shields.io/badge/Instagram-FF0000?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <!-- twitter -->
+  <a href="https://twitter.com/ireoluwa_codes" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" target="_blank"></a> 
+  <!-- gmail -->
+  <a href = "mailto:righteousnessakinbola@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <!-- linkedin -->
+  <a href="https://" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
 
+<hr />
+<br/>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ireoluwacodes&label=Profile%20views&color=0e75b6&style=flat" alt="ireoluwacodes" /> </p>
 
+<h2 align="center">♣ Languages-Frameworks-Tools ♣</h2>
+<br />
+<p align="center">
+  <a href="https://skillicons.dev">
+      <!-- first row -->
+      <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git%2Creact%2Cnodejs%2Cgithub%2Cpython%2Cjavascript%2Cexpress%2Cmongodb%2Cnestjs&theme=dark" />
+<source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://skillicons.dev/icons?i=git%2Creact%2Cnodejs%2Cgithub%2Cpython%2Cjavascript%2Cexpress%2Cmongodb%2Cnestjs&theme=light" />
+          <img src="https://skillicons.dev/icons?i=git%2Creact%2Cnodejs%2Cgithub%2Cpython%2Cjavascript%2Cexpress%2Cmongodb%2Cnestjs&theme=light" alt="skills - 1" />
+        </picture>
+          <br />
+          <!-- second row -->
+          <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=typescript%2Cmysql%2Chtml%2Ccss%2Cdocker%2Cvscode%2Cfigma%2Cpostgres%2Cpostman&theme=dark" />
+            <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://skillicons.dev/icons?i=tailwindcss%2Ctypescript%2Cmysql%2Cdjango%2Chtml%2Credux%2Cdocker%2Cvscode%2Cnetlify%2Cfigma&theme=light" />
+            <img src="https://skillicons.dev/icons?i=tailwindcss%2Ctypescript%2Cmysql%2Cdjango%2Chtml%2Credux%2Cdocker%2Cvscode%2Cnetlify%2Cfigma&theme=light" alt="skills - 2" />
+        </picture>
 
-- 🔭 I’m currently working on **building various types of API's with Node.js frameworks**
+  </a>
+</p>
+<br />
+<hr/>
+<p align=center>
+<!-- first row -->
+  <div align=center>
+  <!-- streak stats -->
+    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=ireoluwacodes&theme=react&border=61dafb&hide_border=true" />
+        <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=ireoluwacodes&theme=default&border=61dafb" />
+        <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=ireoluwacodes&theme=default&border=61dafb" alt="ire's streak stats" />
+      </picture>
+    </a>
+  </div>
+  <div align=center>
+  <!-- language stats -->
+    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ireoluwacodes&langs_count=8&theme=react&layout=compact&border_color=61dafb&hide_border=true" />
+        <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ireoluwacodes&langs_count=8&layout=compact&border_color=61dafb" /> 
+        <img align="center" width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ireoluwacodes&langs_count=8&layout=compact&border_color=61dafb" alt="ires's language stats" />
+      </picture>
+    </a>
+  </div>
+  <!-- spaces -->
+  <br />
+  <br />
+  <br />
+  <!-- contribution graph -->
+  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph" title="Go to Source">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=ireoluwacodes&theme=react-dark" />
+      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=ireoluwacodes&bg_color=ffffff&color=708090&line=24292e&point=24292e&area=true&hide_border=true" />
+      <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ireoluwacodes&bg_color=ffffff&color=708090&line=24292e&point=24292e&area=true&hide_border=true" alt="ires's contribution graph" />
+    </picture>
+  </a>
+</p>
 
-- 🌱 I’m currently learning **Python, SQL**
-
-- 💬 Ask me about **Node.js/Express.js, MongoDB**
-
-- 📫 How to reach me **righteousnessakinbola@gmail.com**
-
-- ⚡ Fun fact **I think backend is way easier than frontend development, and its an essential part of web development. I mean, who wants all their info on LocalStorage?👀**
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left" background-color="white" border-radius="10">
- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
- <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
- <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
- <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-</p> 
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ireoluwacodes&" alt="ireoluwacodes" /></p>
+<hr/>
 <a href="https://gitroll.io/profile/ui3wzzMf3zbag20mbWPGep17FRa53" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/ui3wzzMf3zbag20mbWPGep17FRa53" alt="GitRoll Profile Badge"/></a>
