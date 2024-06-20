@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ireoluwa!</h1>
-<h3 align="center">Software developer </h3>
+<h3 align="center">Software Engineer </h3>
 <!-- social handles -->
 <div align="center" style="display: flex;"> 
 <!-- instagram -->
