@@ -22,13 +22,13 @@
   <a href="https://skillicons.dev">
       <!-- first row -->
       <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react%2Ctailwindcss%2Cnodejs%2Cprisma%2Cpostgres%2Ctypescript%2Cnestjs%2Cmongodb%2Cexpress&theme=dark" />
+          <source srcset="https://skillicons.dev/icons?i=react%2Ctailwindcss%2Cnodejs%2Cprisma%2Cpostgres%2Ctypescript%2Cnestjs%2Cmongodb%2Cexpress&theme=dark" />
            <img src="https://skillicons.dev/icons" alt="skills - 1" />
         </picture>
           <br />
           <!-- second row -->
           <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=javascript%2Cpython%2Cdocker%2Cvscode%2Cbash%2Clinux%2Cpostman%2Crabbitmq&theme=dark" />
+            <source srcset="https://skillicons.dev/icons?i=javascript%2Cpython%2Cdocker%2Cvscode%2Cbash%2Clinux%2Cpostman%2Crabbitmq&theme=dark" />
             <img src="https://skillicons.dev/icons" alt="skills - 2" />
         </picture>
 
