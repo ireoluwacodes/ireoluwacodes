@@ -22,16 +22,14 @@
   <a href="https://skillicons.dev">
       <!-- first row -->
       <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git%2Creact%2Cnodejs%2Cgithub%2Cpython%2Cjavascript%2Cexpress%2Cmongodb%2Cnestjs&theme=dark" />
-<source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://skillicons.dev/icons?i=git%2Creact%2Cnodejs%2Cgithub%2Cpython%2Cjavascript%2Cexpress%2Cmongodb%2Cnestjs&theme=light" />
-          <img src="https://skillicons.dev/icons?i=git%2Creact%2Cnodejs%2Cgithub%2Cpython%2Cjavascript%2Cexpress%2Cmongodb%2Cnestjs&theme=light" alt="skills - 1" />
+          <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react%2Ctailwindcss%2Cnodejs%2Cprisma%2Cpostgres%2Ctypescript%2Cnestjs%2Cmongodb%2Cexpress&theme=dark" />
+           <img src="https://skillicons.dev/icons" alt="skills - 1" />
         </picture>
           <br />
           <!-- second row -->
           <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=typescript%2Cmysql%2Chtml%2Ccss%2Cdocker%2Cvscode%2Cfigma%2Cpostgres%2Cpostman&theme=dark" />
-            <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://skillicons.dev/icons?i=tailwindcss%2Ctypescript%2Cmysql%2Cdjango%2Chtml%2Credux%2Cdocker%2Cvscode%2Cnetlify%2Cfigma&theme=light" />
-            <img src="https://skillicons.dev/icons?i=tailwindcss%2Ctypescript%2Cmysql%2Cdjango%2Chtml%2Credux%2Cdocker%2Cvscode%2Cnetlify%2Cfigma&theme=light" alt="skills - 2" />
+            <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=javascript%2Cpython%2Cdocker%2Cvscode%2Cbash%2Clinux%2Cpostman%2Crabbitmq&theme=dark" />
+            <img src="https://skillicons.dev/icons" alt="skills - 2" />
         </picture>
 
   </a>
