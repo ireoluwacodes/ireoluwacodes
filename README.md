@@ -72,6 +72,3 @@
     </picture>
   </a>
 </p>
-
-<hr/>
-<a href="https://gitroll.io/profile/ui3wzzMf3zbag20mbWPGep17FRa53" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/ui3wzzMf3zbag20mbWPGep17FRa53" alt="GitRoll Profile Badge"/></a>
