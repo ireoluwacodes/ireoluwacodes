@@ -38,27 +38,6 @@
 <hr/>
 <p align=center>
 <!-- first row -->
-  <div align=center>
-  <!-- streak stats -->
-    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=ireoluwacodes&theme=react&border=61dafb&hide_border=true" />
-        <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=ireoluwacodes&theme=default&border=61dafb" />
-        <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=ireoluwacodes&theme=default&border=61dafb" alt="ire's streak stats" />
-      </picture>
-    </a>
-  </div>
-  <br/><br/>
-  <div align=center>
-  <!-- language stats -->
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ireoluwacodes&langs_count=8&theme=react&layout=compact&border_color=61dafb&hide_border=true" />
-        <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ireoluwacodes&langs_count=8&layout=compact&border_color=61dafb" /> 
-        <img align="center" width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ireoluwacodes&langs_count=8&layout=compact&border_color=61dafb" alt="ires's language stats" />
-      </picture>
-    </a>
-  </div>
   <!-- spaces -->
   <br />
   <br />
